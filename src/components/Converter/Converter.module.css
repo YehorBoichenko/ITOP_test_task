@@ -1,0 +1,26 @@
+.converter {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 70px;
+}
+
+.converterInput {
+  height: 50px;
+  padding: 12px 20px;
+  margin: 0 8px 0;
+  box-sizing: border-box;
+}
+
+input {
+  font-size: 17px;
+  padding: 0 15px;
+  border: 1px solid #999;
+}
+
+.selectedConvert {
+  padding: 12px 20px;
+  border-radius: 4px;
+  background-color: #f1f1f1;
+  border: 1px solid #999;
+}
