@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ITOP_test_task/static/css/main.12332b60.css",
+    "main.js": "/ITOP_test_task/static/js/main.c66a32bd.js",
+    "index.html": "/ITOP_test_task/index.html",
+    "main.12332b60.css.map": "/ITOP_test_task/static/css/main.12332b60.css.map",
+    "main.c66a32bd.js.map": "/ITOP_test_task/static/js/main.c66a32bd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.12332b60.css",
+    "static/js/main.c66a32bd.js"
+  ]
+}
